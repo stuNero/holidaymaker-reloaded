@@ -1,0 +1,9 @@
+body {
+  background-image: url("/front-end/images/background.webp");
+  background-size: cover;
+  border: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}

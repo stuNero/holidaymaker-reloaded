@@ -1,0 +1,28 @@
+main {
+  margin: 300px auto auto auto;
+
+  #package-logos {
+    padding: 30px;
+    background-color: rgb(61, 61, 61);
+    display: grid;
+    width: 500px;
+    height: 500px;
+    grid-template-columns: 200px 200px;
+    grid-row: auto auto;
+    grid-column-gap: 20px;
+    grid-row-gap: 20px;
+    align-items: center;
+    border-radius: 50px;
+    place-content: center space-between;
+
+    label {
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+    }
+
+    img {
+      width: 200px;
+    }
+  }
+}

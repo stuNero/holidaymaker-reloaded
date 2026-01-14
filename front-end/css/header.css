@@ -1,0 +1,29 @@
+header {
+  width: 100%;
+  position: fixed;
+  background-color: var(--bg-color-header-footer);
+  opacity: 70%;
+  height: 250px;
+
+  #title-logo {
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+  }
+
+  img {
+    width: 400px;
+    height: auto;
+  }
+
+  nav {
+    position: fixed;
+    display: flex;
+    justify-content: flex-end;
+
+    img {
+      margin: 20px;
+      width: 50px;
+    }
+  }
+}

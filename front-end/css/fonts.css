@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Nothing+You+Could+Do&display=swap');
+
+main {
+  #package-logos {
+    color: antiquewhite;
+    font-size: 2em;
+    font-family: "Nothing You Could Do",
+      sans-serif;
+  }
+}
+
+footer {
+  font-size: smaller;
+}
