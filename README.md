@@ -1,4 +1,5 @@
 # Holidaymaker-Reloaded
+![image](front-end/images/logo-holidaymaker.webp)
 ## Intended Purpose
 - Complete Back End structure and function
 - Explore a front end solution
