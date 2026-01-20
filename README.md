@@ -1,7 +1,10 @@
-# proj_holidaymaker
+# Holidaymaker-Reloaded
 ## Intended Purpose
 - Complete Back End structure and function
 - Explore a front end solution
 ## Description
 - A Rest-API for a travel planner app
-- Focused on the creation of packages related to cuisine.
+- Includes Custom Database with mock data 
+- Website App as front-end solution
+
+- Focused on the creation of packages with a focus on local cuisine and booking of accommodations and transports.
